@@ -1,15 +1,20 @@
-Hi There 👋 , I’m A.R. Jibon
+<h1 style='text-align: center'>Hi There 👋 I’m A.R. Jibon</h1>
+
 I'm a full stack software developer
+
+---
+
+- 👀 I’m interested in learning anything
+- 🌱 I’m currently learning server adminstrator
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me, if you need me, you will get the way
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jibon0070)](https://github.com/jibon0070/github-readme-stats)]
 
 [![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070)](https://github.com/jibon0070/github-readme-stats)]
 
 
-- 👀 I’m interested in learning anything
-- 🌱 I’m currently learning server adminstrator
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, if you need me, you will get the way
+
 
 <!---
 jibon0070/jibon0070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
