@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @jibon0070
+Hi There 👋 , I’m A.R. Jibon
+I'm a full stack software developer
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jibon0070)](https://github.com/jibon0070/github-readme-stats)]
+
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070)](https://github.com/jibon0070/github-readme-stats)]
+
+
 - 👀 I’m interested in learning anything
 - 🌱 I’m currently learning server adminstrator
 - 💞️ I’m looking to collaborate on nothing
