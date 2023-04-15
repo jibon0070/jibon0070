@@ -13,7 +13,7 @@ I'm a full stack software developer
 
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070)
 
-![My Contributions]([https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070](https://github.com/jibon0070/jibon0070/raw/output/github-contribution-grid-snake.svg)
+![My Github Contribution](https://github.com/jibon0070/jibon0070/raw/output/github-contribution-grid-snake.svg)
 
 
 
