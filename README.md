@@ -13,6 +13,8 @@ I'm a full stack software developer
 
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070)
 
+![snake animation](https://github.com/jibon0070/jibon0070/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
