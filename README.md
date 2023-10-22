@@ -9,10 +9,6 @@ I'm a full stack software developer
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me, if you need me, you will get the way
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jibon0070)
-
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jibon0070)
-
 
 
 <!---
