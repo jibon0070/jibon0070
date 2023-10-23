@@ -7,7 +7,7 @@ I'm a full stack software developer
 - 👀 I’m interested in learning anything
 - 🌱 I’m currently learning server adminstrator
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, if you need me, you will get the way
+- 📫 How to reach me, if you need me, you will get a way
 
 
 
